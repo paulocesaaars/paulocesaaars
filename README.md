@@ -1,10 +1,4 @@
 ## Oiii eu sou PC, 
-<div align="justify">
-Formado em sistemas de informação, tenho mais de 10 anos de experiência desenvolvendo sistemas e soluções.
-Natural de Marilia-SP, no início da carreira trabalhava focado no desenvolvimento de sistemas para automação industrial utilizando supervisórios de mercado e tecnologias open source. Mudei para São Paulo para trabalhar em multinacional, onde atuei por mais de 5 anos com tecnologias Microsoft, durante esse tempo também tive a oportunidade de trabalhar com as principais nuvens Azure, Amazon e GPC e com tecnologias emergentes como IoT e sistemas de visão.
-Sempre fiquei bastante tempo pelas empresas que passei, gosto de aprender e trabalhar com tecnologias novas, dedico meu tempo livre criando projetos de Arduino, IoT e atualmente estou estudando arquitetura de software.
-</div>
-
 <p/>
 
 <div align="center" >
