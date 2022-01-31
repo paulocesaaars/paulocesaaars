@@ -5,6 +5,8 @@ Natural de Marilia-SP, no início da carreira trabalhava focado no desenvolvimen
 Sempre fiquei bastante tempo pelas empresas que passei, gosto de aprender e trabalhar com tecnologias novas, dedico meu tempo livre criando projetos de Arduino, IoT e atualmente estou estudando arquitetura de software.
 </div>
 
+<p/>
+
 <div align="center" >
   <a href="https://github.com/paulocesaaars">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulocesaaars&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
