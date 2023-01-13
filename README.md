@@ -2,9 +2,9 @@
 <p/>
 
 <div align="center" >
-  <a href="https://github.com/paulocesaaars">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulocesaaars&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulocesaaars&layout=compact&langs_count=7&theme=dark"/>
+  Formado em sistemas de informação, tenho mais de 10 anos de experiência desenvolvendo sistemas e soluções.
+Natural de Marilia-SP, no início da carreira trabalhava focado no desenvolvimento de sistemas para automação industrial utilizando supervisórios de mercado e tecnologias open source. Mudei para São Paulo para trabalhar em multinacional, onde atuei por mais de 5 anos com tecnologias Microsoft, durante esse tempo também tive a oportunidade de trabalhar com as principais nuvens (Azure, AWS e GPC) e com tecnologias emergentes como IoT e sistemas de visão.
+Sempre fiquei bastante tempo pelas empresas que passei, gosto de aprender e trabalhar com tecnologias novas, dedico meu tempo livre a minha família e atualmente estou desenvolvendo uma solução open source para área de automação industrial.
 </div>
   
 <div style="display: inline_block"><br>
